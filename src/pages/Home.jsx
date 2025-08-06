@@ -58,7 +58,7 @@ const Home = () => {
 								hidden: { opacity: 0, y: 30 },
 								visible: { opacity: 1, y: 0 },
 							}}
-							className="text-6xl sm:text-6xl md:text-4xl pt-8 lg:text-5xl font-bold text-white leading-tight w-full max-w-4xl mx-auto">
+							className="text-5xl sm:text-6xl md:text-4xl pt-8 lg:text-5xl font-bold text-white leading-tight w-full max-w-4xl mx-auto">
 							Innovative Jig Fixturing and Machining Solutions for{" "}
 							<span className="text-[#A4DD00]">Tomorrow’s</span> Industry
 						</motion.p>
