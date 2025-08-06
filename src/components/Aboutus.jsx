@@ -82,23 +82,7 @@ const Aboutus = () => {
 
 	return (
 		<div>
-			<Helmet>
-				<meta charSet="UTF-8" />
-				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-				<title>
-					About Us - Unique Solution | Quality Jig & Fixture Manufacturer,
-					Kolhapur
-				</title>
-				<meta
-					name="description"
-					content="Learn more about Unique Group, a Kolhapur-based leader in jig, fixture, and precision gauge manufacturing, committed to 'Right First Time. Every Time.' We specialize in custom tooling, VMC machining, and continuous quality improvement."
-				/>
-				<meta
-					name="keywords"
-					content="About Unique Solution, Jig manufacturer, fixture company, relation gauge, special gauges, CNC machining, Kolhapur, India, company policy, precision, quality manufacturing, training, customer satisfaction"
-				/>
-				<meta name="author" content="Unique Solution, Kolhapur India" />
-			</Helmet>
+			
 
 			<div className="bg-[#FAFAFA] w-screen font-nunito">
 				{/* ABOUT US SECTION */}
