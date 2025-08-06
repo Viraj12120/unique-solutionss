@@ -183,7 +183,7 @@ const About = () => {
 				</div>
 
 				{/* Stats */}
-				<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-10 ml-96 text-center mt-16">
+				<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-10 text-center mt-16 max-w-5xl mx-auto px-4">
 					{[
 						{ label: "Years of Experience", value: "20+", color: "#A4DD00" },
 						{ label: "Projects Completed", value: "150+" },
