@@ -69,7 +69,7 @@ const Home = () => {
 								hidden: { opacity: 0, y: 20 },
 								visible: { opacity: 1, y: 0 },
 							}}
-							className="text-sm sm:text-base md:text-lg italic mt-4 text-white w-full max-w-3xl mx-auto">
+							className="text-md sm:text-base md:text-lg italic mt-4 text-white w-full max-w-3xl mx-auto">
 							Delivering precision, durability, and excellence from the heart of
 							Shiroli MIDC, Kolhapur.
 						</motion.p>
@@ -82,12 +82,12 @@ const Home = () => {
 							}}
 							className="flex sm:flex-col lg:flex-row justify-center items-center gap-3 sm:gap-4 mt-6">
 							<Link to="/contact">
-								<button className="bg-white text-black px-6 py-2 text-sm sm:text-base rounded hover:bg-gray-100 transition hover:text-[#A4DD00] hover:scale-105">
+								<button className="bg-white text-black px-6 py-2 text-md sm:text-base rounded hover:bg-gray-100 transition hover:text-[#A4DD00] hover:scale-105">
 									Request a Quote
 								</button>
 							</Link>
 							<Link to="/products">
-								<button className="bg-gradient-to-r from-[#A4DD00] to-[#7CB518] text-white px-6 py-2 text-sm sm:text-base rounded shadow-md hover:brightness-110 transition transform hover:scale-105">
+								<button className="bg-gradient-to-r from-[#A4DD00] to-[#7CB518] text-white px-6 py-2 text-md sm:text-base rounded shadow-md hover:brightness-110 transition transform hover:scale-105">
 									Explore our Products
 								</button>
 							</Link>
