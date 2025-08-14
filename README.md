@@ -13,13 +13,5 @@ Based in Shiroli MIDC, Kolhapur, Unique Solution delivers robust engineering sol
 - **Durability & Efficiency** built into every product  
 
 
-
-
-##  License & Attribution
-
-*(Add license details here if applicable—e.g., internal company license or proprietary terms.)*
-
----
-
 **Let’s keep building precision, one fixture at a time.**
 
