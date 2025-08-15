@@ -124,7 +124,7 @@ const About = () => {
 						delivering Jig Fixturing and Machining tailored solutions that power
 						India’s leading industries.
 					</p>
-					<Link to="/contactus">
+					<Link to="/contact">
 						<motion.button
 							whileHover={{ scale: 1.05 }}
 							whileTap={{ scale: 0.95 }}
