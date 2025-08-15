@@ -1,12 +1,17 @@
-# React + Vite
+#  Unique Solution – Expert Jigs & Fixtures Manufacturing in Shiroli MIDC, Kolhapur
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Unique Solution** offers comprehensive machining and manufacturing solutions—specializing in high-precision jigs and fixtures engineered to enhance efficiency and accuracy across industries.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  About Us
 
-## Expanding the ESLint configuration
+Based in Shiroli MIDC, Kolhapur, Unique Solution delivers robust engineering solutions through bespoke jigs and fixtures tailored to your production demands. We ensure:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Precision and Quality** in every manufacturing step  
+- **Custom Design & Fabrication** to meet specialized requirements  
+- **Durability & Efficiency** built into every product  
+
+
+**Let’s keep building precision, one fixture at a time.**
+
