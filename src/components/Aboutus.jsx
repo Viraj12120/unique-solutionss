@@ -6,7 +6,6 @@ import WhatWeDo from "./Whatwedo";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 import { Helmet } from "react-helmet";
 
-
 const Aboutus = () => {
 	const [openModal, setOpenModal] = useState(false);
 	const [selectedProduct, setSelectedProduct] = useState(null);
@@ -77,17 +76,12 @@ const Aboutus = () => {
 		}
 	};
 
-	
-
-
 	return (
 		<div>
-			
-
 			<div className="bg-[#FAFAFA] w-screen font-nunito">
 				{/* ABOUT US SECTION */}
 				<motion.div
-					className="p-6 md:p-12 mt-16 flex flex-col lg:flex-row gap-12 items-center"
+					className="p-6 md:p-12  flex flex-col lg:flex-row gap-12 items-center"
 					initial="initial"
 					whileInView="whileInView"
 					viewport={{ amount: 0.2 }}>
