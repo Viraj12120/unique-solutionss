@@ -113,6 +113,8 @@ const Aboutus = () => {
 						src="https://res.cloudinary.com/ducukfrfg/video/upload/q_auto,f_auto/v1777615550/ug_spo4tk.mp4"
 						controls
 						autoPlay
+						muted
+						playsInline
 						loop
 						className="w-full md:w-[600px] rounded mt-8 md:mt-0"
 					/>
