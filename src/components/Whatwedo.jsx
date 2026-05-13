@@ -3,17 +3,16 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const services = [
 	{
-		title: "SPECIAL CNC/VTL JAWS",
+		title: "HYDRAULIC FIXTURES",
 		image: "/hydraulic.jpeg",
 		description:
 			"We specialize in the design and manufacture of high-pressure hydraulic fixtures that deliver unmatched clamping force and precision. These fixtures are ideal for complex machining operations where stability and repeatability are critical, ensuring optimal productivity and reduced cycle times in high-volume manufacturing environments.",
 		gallery: ["/wm14.jpg", "/wm13.jpg", "/wm1.jpg", "/wm9.jpg"],
 	},
 	{
-		title: "MECHANICAL FIXTURES",
+		title: "SPECIAL CNC/VTL JAWS",
 		image: "/jaws.jpeg",
-		description:
-			"We design and manufacture special CNC jaws as per component geometry and machining requirements.Our jaws ensure strong clamping, high accuracy, and repeatability, making them ideal for turning, milling, and high- volume production applications on CNC machines.",
+		description: "We design and manufacture special CNC jaws as per component geometry and machining requirements. Our jaws ensure strong clamping, high accuracy, and repeatability, making them ideal for turning, milling, and high-volume production applications on CNC machines.",
 		gallery: ["/wm2.jpg", "/wm12.jpg", "/wm0.jpg", "/wm4.jpg"],
 	},
 	// {
@@ -44,10 +43,9 @@ const services = [
 	// 	gallery: ["/z.png", "/ig.jpg", "/wm17.png"],
 	// },
 	{
-		title: "MECHANICAL FIXTURES ",
+		title: "MECHANICAL FIXTURES",
 		image: "/F.jpg",
-		description:
-			"We manufacture custom mechanical fixturesdesigned for accurate location and rigid clamping during machining operations. Our fixtures are suitable for turning, milling, drilling, and inspection, ensuring consistency, repeatability, and reduced setup time in production environments.",
+		description: "We manufacture custom mechanical fixturesdesigned for accurate location and rigid clamping during machining operations. Our fixtures are suitable for turning, milling, drilling, and inspection, ensuring consistency, repeatability, and reduced setup time in production environments.",
 		gallery: ["/wm01.jpg", "/wm15.jpg", "0.webp", "poi.jpg"],
 	},
 ];
