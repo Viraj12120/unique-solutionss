@@ -307,9 +307,9 @@ const Aboutus = () => {
 							Experience
 						</h3>
 						<p className="font-light mb-8 text-gray-300 leading-relaxed">
-							With over 20+ years of industry presence, Unique Solutions is
-							trusted nationwide for delivering efficient, robust, and
-							thoughtfully engineered solutions tailored for long-term
+							With over 20+ years of industry experience, Unique Group is
+							trusted nationwide for delivering reliable, robust, and
+							precision-engineered solutions tailored for long-term
 							industrial performance.
 						</p>
 
@@ -317,9 +317,8 @@ const Aboutus = () => {
 							Our Vision
 						</h3>
 						<p className="font-light text-gray-300 leading-relaxed">
-							To be a globally recognized partner in machinery manufacturing —
-							pioneering affordable, sustainable, and innovative engineering
-							solutions for tomorrow’s challenges.
+							To be a globally recognized partner in jig fixture and machinery manufacturing , delivering innovative,reliable and cost-effective engineering solutions for evolving industrial needs.
+
 						</p>
 
 						<Link to={"/aboutus"}>
