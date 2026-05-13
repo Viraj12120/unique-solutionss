@@ -24,31 +24,31 @@ const Aboutus = () => {
 	const carouselItems = [
 		{
 			src: "/wm2.jpg",
-			title: "Mechanical Fixtures",
+			title: "Robot grippers",
 			description:
 				"Engineered for precision and durability, our hydraulic jigs streamline machining operations by ensuring stable, repeatable clamping — ideal for high-pressure production environments.",
 		},
 		{
 			src: "/wm3.jpg",
-			title: "Tool Fixture",
+			title: "Social CNC Jaws",
 			description:
 				"Robust and versatile, our tool fixtures are designed to withstand heavy loads and long production cycles, providing consistent alignment and positioning for complex tooling tasks.",
 		},
 		{
 			src: "/wm06.png",
-			title: "Cylindrical Grinding Machine",
+			title: "Mechanical fixture",
 			description:
 				"Crafted with superior-grade materials, our casting dies support complex geometries and tight tolerances, delivering reliable results in high-volume die casting applications.",
 		},
 		{
 			src: "/wm13.jpg",
-			title: "Machining Fixture",
+			title: "Hydraulic fixtures",
 			description:
 				"These fixtures ensure precise positioning and secure workpiece holding during multi-axis machining, increasing throughput and minimizing rework in mass production lines.",
 		},
 		{
 			src: "/wm6.jpg",
-			title: " Inspection Fixture",
+			title: " CMM Fixture",
 			description:
 				"Heavy-duty clamping solution built for integration into automated systems, offering high holding force, quick release mechanisms, and enhanced operator safety.",
 		},
@@ -164,32 +164,32 @@ const Aboutus = () => {
 							{
 								icon: "/repair.png",
 								title: "Custom Machine Design & Manufacturing",
-								desc: "We create innovative, tailor-made machines to meet your unique production needs.",
+								desc: "We design and manufacture custom machines, jigs, fixtures, and automation systemstailored to specific production and machining requirements.",
 							},
 							{
 								icon: "/components.png",
 								title: "Hydraulic Fixtures & Mechanical Fixtures",
-								desc: "Precision hydraulic and machining fixtures for improved efficiency and accuracy.",
+								desc: "We manufacture hydraulic, pneumatic, and mechanical fixtures that ensure accurate positioning, rigid clamping, and repeatability for CNC machining operations.",
 							},
 							{
 								icon: "/tech.png",
 								title: "Precision Gauging Solutions",
-								desc: "High-quality gauges to ensure dimensional accuracy in your components.",
+								desc: "We design and supply precision gauges and inspection fixtures to ensure dimensional accuracy and quality control in manufacturing processes.",
 							},
 							{
 								icon: "/design.png",
 								title: "Industrial Automation Equipment",
-								desc: "Automation solutions to enhance productivity and minimize manual worker efforts.",
+								desc: "We provide custom automation solutions to improve productivity, reduce manual operations, and enhance process consistency.",
 							},
 							{
 								icon: "/rep.png",
 								title: "Tooling & Engineering Solutions",
-								desc: "Custom tooling and engineering support for any type of job manufacturing processes.",
+								desc: "We offer custom tooling, fixture design, and engineering support for turning, milling, drilling, and special machining applications.",
 							},
 							{
 								icon: "/rep.png",
 								title: "Special Gauges",
-								desc: "Custom tooling gauges engineering support for any type of gauges manufacturing processes.",
+								desc: "We manufacture special purpose gauges as per component drawings and inspection requirements for reliable quality assurance.",
 							},
 						].map((service, i) => (
 							<div key={i} className="flex flex-col items-start ">
