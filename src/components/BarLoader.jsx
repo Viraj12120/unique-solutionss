@@ -5,7 +5,7 @@ const BarLoader = () => {
 			<img src="/l.png" alt="Logo" className="w-24 h-24 mb-2 object-contain " />
 
 			<h1 className="text-xl font-nunito font-semibold text-gray-700 mb-4 tracking-wide">
-				Unique Solutions
+				Unique Group
 			</h1>
 
 			{/* Bar Loader with animated glowing gradient */}

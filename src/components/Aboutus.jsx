@@ -92,16 +92,17 @@ const Aboutus = () => {
 						viewport={{ amount: 0.3 }}
 						className="w-full md:w-1/2">
 						<p className="font-text-lg lg:text-2xl sm:text-xl text-gray-400  leading-relaxed">
-							Unique Solutions, based in{" "}
+							Unique Group, located in{" "}
 							<span className="font-bold italic text-[#A4DD00]">
 								Shiroli MIDC
 							</span>
 							, Kolhapur,{" "}
-							<span className="font-medium italic text-[#A4DD00]">
-								manufactures
+							<span className="font-medium">
+								specializes
 							</span>{" "}
-							custom hydraulic fixtures, precision gauges, and automation
-							components for diverse industries.
+							in the design and manufacture of mechanical, pneumatic, and
+							hydraulic fixtures, precision gauges, and automation components
+							for a wide range of industries.
 						</p>
 					</motion.div>
 
@@ -109,7 +110,7 @@ const Aboutus = () => {
 						initial={{ opacity: 0, y: 40 }}
 						whileInView={{ opacity: 1, y: 0 }}
 						transition={{ duration: 1, delay: 0.3 }}
-						src="https://res.cloudinary.com/domgx4mk9/video/upload/q_auto,f_auto,vc_auto/v1752389070/uniquev_yhxwzn.mp4"
+						src="https://res.cloudinary.com/ducukfrfg/video/upload/q_auto,f_auto/v1777615550/ug_spo4tk.mp4"
 						controls
 						autoPlay
 						loop
@@ -132,8 +133,13 @@ const Aboutus = () => {
 						transition={{ duration: 1, delay: 0.5 }}
 						viewport={{ amount: 0.3 }}
 						className="mt-2 text-base md:text-lg text-gray-400 w">
-						We craft high-quality, tailored digital experiences with precision
-						and creativity — from design to deployment.
+						We design and manufacture{" "}
+						<span className="font-bold">
+							mechanical, pneumatic, and hydraulic fixtures, along with
+							precision gauges and automation components
+						</span>
+						, delivering accurate, reliable, and productivity-driven solutions
+						for machining and industrial applications.
 					</motion.p>
 
 					<motion.div

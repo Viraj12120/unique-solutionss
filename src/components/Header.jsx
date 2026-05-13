@@ -17,8 +17,9 @@ const Header = () => {
 		<div className="fixed top-0 z-50 w-full px-4 py-3 md:mt-4 bg-transparent">
 			<div className="max-w-7xl mx-auto flex items-center justify-between relative">
 				{/* Logo - always on left */}
-				<Link to="/" className="block">
+				<Link to="/" className="flex items-center gap-2">
 					<img src="/us.jpg" alt="Logo" className="w-20 sm:w-32 object-contain"/>
+					<img src="/uv.png" alt="UV Logo" className="w-20 sm:w-32 object-contain"/>
 				</Link>
 
 				{/* Centered Navbar - only visible on lg and up */}

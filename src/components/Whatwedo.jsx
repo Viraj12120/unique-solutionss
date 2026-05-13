@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const services = [
 	{
-		title: "HYDRAULIC FIXTURES",
+		title: "SPECIAL CNC/VTL JAWS",
 		image: "/hydraulic.jpeg",
 		description:
 			"We specialize in the design and manufacture of high-pressure hydraulic fixtures that deliver unmatched clamping force and precision. These fixtures are ideal for complex machining operations where stability and repeatability are critical, ensuring optimal productivity and reduced cycle times in high-volume manufacturing environments.",
@@ -13,7 +13,7 @@ const services = [
 		title: "MECHANICAL FIXTURES",
 		image: "/jaws.jpeg",
 		description:
-			"Our mechanical fixtures are custom-built for durability, accuracy, and ease of use. Designed to secure workpieces during machining or assembly processes, these fixtures offer flexible configurations for a wide range of applications, from single-part prototypes to batch production runs, while reducing setup time and human error.",
+			"We design and manufacture special CNC jaws as per component geometry and machining requirements.Our jaws ensure strong clamping, high accuracy, and repeatability, making them ideal for turning, milling, and high- volume production applications on CNC machines.",
 		gallery: ["/wm2.jpg", "/wm12.jpg", "/wm0.jpg", "/wm4.jpg"],
 	},
 	// {
@@ -22,13 +22,13 @@ const services = [
 	// 	description: "Fixtures for automated robotic assembly lines.",
 	// 	gallery: ["/fixtures/robot1.jpg", "/fixtures/robot2.jpg"],
 	// },
-	{
-		title: "CNC Machines",
-		image: "/MACHINE.jpg",
-		description:
-			"We provide robust fixture solutions optimized for CNC machining centers, including vertical, horizontal, and 5-axis systems. Our fixtures ensure precise alignment and minimal deflection, allowing for consistent and efficient machining of critical aerospace, automotive, and precision-engineered components.",
-		gallery: ["/cnc2.jpg", "/cnc3.jpg", "/za.jpg"],
-	},
+	// {
+	// 	title: "CNC Machines",
+	// 	image: "/MACHINE.jpg",
+	// 	description:
+	// 		"We provide robust fixture solutions optimized for CNC machining centers, including vertical, horizontal, and 5-axis systems. Our fixtures ensure precise alignment and minimal deflection, allowing for consistent and efficient machining of critical aerospace, automotive, and precision-engineered components.",
+	// 	gallery: ["/cnc2.jpg", "/cnc3.jpg", "/za.jpg"],
+	// },
 	{
 		title: "ROTARY INDEXER FIXTURES",
 		image: "/rotary.jpg",
@@ -36,18 +36,18 @@ const services = [
 			"Built for use with rotary indexing tables, our rotary indexer fixtures are engineered for operations requiring multi-face machining without repositioning. They significantly enhance process efficiency by allowing multiple operations to be performed in a single setup, increasing accuracy and reducing machining time.",
 		gallery: ["/rotary.jpg", "/123.jpg", "/321.jpg"],
 	},
+	// {
+	// 	title: "VERTICAL DRILLING",
+	// 	image: "/drilling.jpg",
+	// 	description:
+	// 		"Our vertical drilling fixtures are designed for high-precision hole-making processes. These fixtures support consistent part placement and depth accuracy across repetitive drilling cycles, making them suitable for production lines in industries like automotive, fabrication, and heavy equipment.",
+	// 	gallery: ["/z.png", "/ig.jpg", "/wm17.png"],
+	// },
 	{
-		title: "VERTICAL DRILLING",
-		image: "/drilling.jpg",
-		description:
-			"Our vertical drilling fixtures are designed for high-precision hole-making processes. These fixtures support consistent part placement and depth accuracy across repetitive drilling cycles, making them suitable for production lines in industries like automotive, fabrication, and heavy equipment.",
-		gallery: ["/z.png", "/ig.jpg", "/wm17.png"],
-	},
-	{
-		title: "FIXTURES",
+		title: "MECHANICAL FIXTURES ",
 		image: "/F.jpg",
 		description:
-			"We offer a wide range of general-purpose and custom-built fixtures for various industrial applications. Whether it's for turning, milling, welding, or inspection, our fixtures are designed with precision in mind and are fabricated using advanced machining methods to meet tight tolerances and demanding environments.",
+			"We manufacture custom mechanical fixturesdesigned for accurate location and rigid clamping during machining operations. Our fixtures are suitable for turning, milling, drilling, and inspection, ensuring consistency, repeatability, and reduced setup time in production environments.",
 		gallery: ["/wm01.jpg", "/wm15.jpg", "0.webp", "poi.jpg"],
 	},
 ];
