@@ -10,7 +10,7 @@ const Home = () => {
 				<meta charSet="UTF-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<title>
-					Unique Group - Innovative Jig Manufacturing and Machining Solutions
+					Unique Group - Innovative Jig Manufacturing and Machining Solution
 				</title>
 				<meta
 					name="description"
